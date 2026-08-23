@@ -1,2 +1,5 @@
-myvenv
+myvenv_2
 .env
+__pycache__
+.ipynb_checkpoints
+*.pyc
