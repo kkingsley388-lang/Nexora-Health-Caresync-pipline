@@ -36,7 +36,7 @@ def extract_dataset(dataset_key):
 
 Encounter_df = extract_dataset("Encounter") #return extracted df bsck into where the fucntion was called and the variable encounter_df stores the df/dataframe
 Condition_df = extract_dataset("Condition/Diagnosis") 
-Patient_df = extract_dataset("patient") 
+Patient_df = extract_dataset("Patient") 
 Organization_df = extract_dataset("Organization") 
 Provider_df = extract_dataset("Provider") 
 Payer_df = extract_dataset("Payer" ) 
